@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Tue 18 Nov 2014 05:49:43 PM PST
+
+BeginCmp
+TimeStamp = /546BEAC3;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546BF82F;
+Reference = C2;
+ValeurCmp = 10pF, DNP;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546C4167;
+Reference = C3;
+ValeurCmp = 10pF, DNP;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546BE6C5;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546C414D;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546D3E82;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546DC9C4;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546C2ECF;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = SMD_Packages:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /546BF0E8;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /546C4176;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = SMD_Packages:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /546BB5C0;
+Reference = J1;
+ValeurCmp = MODULE_HEADER;
+IdModule  = parts:MODULE_HEADER_MODULE;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CC0C5;
+Reference = J2;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CC0EE;
+Reference = J3;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CC20E;
+Reference = J4;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /546CC1BC;
+Reference = J5;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /546C391B;
+Reference = Q1;
+ValeurCmp = nMOS;
+IdModule  = SMD_Packages:SOT-23-GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /546DC9B6;
+Reference = Q2;
+ValeurCmp = nMOS;
+IdModule  = SMD_Packages:SOT-23-GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /546BD34E;
+Reference = R1;
+ValeurCmp = 10kR;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546C4E7F;
+Reference = R2;
+ValeurCmp = 1kR;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546BE623;
+Reference = R3;
+ValeurCmp = 1MR;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546BF058;
+Reference = R4;
+ValeurCmp = 1kR;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546C4127;
+Reference = R5;
+ValeurCmp = 10kR;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546C4147;
+Reference = R6;
+ValeurCmp = 1MR;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546DC9BC;
+Reference = R7;
+ValeurCmp = 1kR;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546BC4CE;
+Reference = U1;
+ValeurCmp = ATTINY24-SS;
+IdModule  = SMD_Packages:SOIC-14_N;
+EndCmp
+
+EndListe
