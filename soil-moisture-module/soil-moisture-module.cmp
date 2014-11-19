@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Tue 18 Nov 2014 07:09:44 PM PST
+Cmp-Mod V01 Created by Cvpcb (2014-08-29 BZR 5106)-product   date = Wed 19 Nov 2014 11:03:08 AM PST
 
 BeginCmp
 TimeStamp = /546BEAC3;
@@ -50,7 +50,14 @@ IdModule  = parts:SMD-0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /546E06E7;
+TimeStamp = /546E8255;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = parts:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /546D0022;
 Reference = D1;
 ValeurCmp = PMBD914,235;
 IdModule  = SMD_Packages:SOT-23;
@@ -64,7 +71,7 @@ IdModule  = LEDs:LED-0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /546E0977;
+TimeStamp = /546CFD3D;
 Reference = D3;
 ValeurCmp = PMBD914,235;
 IdModule  = SMD_Packages:SOT-23;
