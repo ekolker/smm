@@ -1001,10 +1001,10 @@
     )
   )
 
-  (gr_text "SMM alpha probe 0: 3 in x 250 mil, 15 mil space, C = 7.923pF" (at 175.387 120.65) (layer F.SilkS) (tstamp 546CF638)
+  (gr_text "SMM alpha probe 0: 3 in x 250 mil, 15 mil space, C = 13.58pF" (at 175.387 120.65) (layer F.SilkS) (tstamp 546CF638)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "SMM alpha probe 1: 3 in x 150 mil, 50 mil space, C = 13.58pF" (at 175.387 105.41) (layer F.SilkS) (tstamp 546CF7D4)
+  (gr_text "SMM alpha probe 1: 3 in x 150 mil, 50 mil space, C = 7.923pF" (at 175.387 105.41) (layer F.SilkS) (tstamp 546CF7D4)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "SMM\nalpha" (at 108.585 101.6) (layer F.SilkS)
